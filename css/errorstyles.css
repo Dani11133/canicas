@@ -1,0 +1,23 @@
+body {
+    background: grey;
+    display: flex;
+    flex-direction: column;
+    margin: 3em 4em;
+    align-items: left;
+    justify-content: space-between;
+    color: white;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 4em;
+}
+
+p {
+    font-size: 2em;
+}
+
+a {
+    font-size: 2em;
+    color: white;
+}
